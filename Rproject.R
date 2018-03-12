@@ -1,4 +1,4 @@
-setwd("~/Desktop/")
+setwd("~/rproject/")
 rf<-read.csv("Data_R_project.csv")
 View(rf)
 library(ggplot2)
